@@ -1,0 +1,7 @@
+Python: 5
+FastAPI: 7
+Docker/Compose: 5
+GitHub Actions: 0
+SQL: 5
+"Код с ИИ": 4
+"Встраивание решений в бизнес процессы": 0
